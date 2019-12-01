@@ -17,7 +17,7 @@ function yourAnimal() {
   
   // hard coding animal = "cat";
   // promt user for his/her animal var userAnimal = window.prompt("What is your animal: ");
-  //
+  //var cat only usable in yourAnimal function (inside the scope)
   var cat = "cat";
   return cat;
 }
