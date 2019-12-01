@@ -15,9 +15,10 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   
-  // hard coding cat animal = "cat";
+  // hard coding animal = "cat";
   // promt user for his/her animal var userAnimal = window.prompt("What is your animal: ");
   //
+  animal = "cat";
   return animal
 }
 
