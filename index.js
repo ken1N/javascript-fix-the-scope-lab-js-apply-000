@@ -18,8 +18,8 @@ function yourAnimal() {
   // hard coding animal = "cat";
   // promt user for his/her animal var userAnimal = window.prompt("What is your animal: ");
   //
-  animal = "cat";
-  return animal
+  var cat = "cat";
+  return cat;
 }
 
 function add2(n) {
